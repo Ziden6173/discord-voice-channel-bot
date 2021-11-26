@@ -118,4 +118,4 @@ client.on("voiceStateUpdate", ( vd, v) =>{
 
 keepAlive();
 //機器人驗證金鑰!!!
-client.login(process.env.TOKEN);
+client.login(ODg5MDk0MDA0MTQ1Mjc0ODgw.YUcPUQ.zIidB5PkRnRicjyBdw6QDlDqNOg);
